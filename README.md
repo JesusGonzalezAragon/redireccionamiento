@@ -10,7 +10,7 @@ Genera un archivo llamado informe.txt que contenga:
 **Código usado**
 ```bash
 #!/bin/bash
-RED='\033[0;31m' #Para dar estulo a nuestro output primero tenemos que definir en una variable el color.
+RED='\033[0;31m' #Para dar estilo a nuestro output primero tenemos que definir en una variable el color.
 BLUE='\033[0;94m'
 LBLUE='\033[1;34m'
 YELLOW='\033[0;33m'
