@@ -12,3 +12,4 @@ date
 clear
 ```
 > Hay que subir imagen de que el script ha sido ejecutado con éxito.
+![script](prueba_script.png)
